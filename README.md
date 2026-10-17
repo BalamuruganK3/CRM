@@ -10,15 +10,6 @@ A responsive web application with three roles: Developer, Manager, and Employee.
 
 Employees cannot open another person's projects. Passwords are hashed. A signed cookie protects every data route.
 
-## First-run accounts
-
-| Username   | Password     | Role      |
-| ---------- | ------------ | --------- |
-| developer  | password123  | Developer |
-| manager1   | password123  | Manager   |
-| employee1  | password123  | Employee  |
-| employee2  | password123  | Employee  |
-
 The database also starts with two sample projects so the screens are understandable. The developer can delete that demo data. With nothing left, each screen shows an empty state.
 
 ## Setup
